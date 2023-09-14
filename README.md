@@ -1,5 +1,5 @@
 ---
-title: Fasterrcnn
+title: Object Detection MobileNetSSD Demo
 emoji: 📷
 colorFrom: red
 colorTo: purple
@@ -11,4 +11,4 @@ license: lgpl-3.0
 duplicated_from: sadimanna/fasterrcnn-project-demo
 ---
 
-# Faster RCNN Demo with Web App using Hugging Face Spaces
+# MobileNet-SSD Object Detection Demo with Web App using Hugging Face Spaces
