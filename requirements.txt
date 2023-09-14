@@ -1,0 +1,10 @@
+tqdm
+numpy
+torch
+torchvision
+Pillow
+opencv-python-headless==4.8.0.76
+streamlit_webrtc==0.47.0
+pydub==0.25.1
+twilio~=8.5.0
+matplotlib
